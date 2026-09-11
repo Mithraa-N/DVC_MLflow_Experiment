@@ -5,3 +5,4 @@ __pycache__/
 .mlflow/
 mlflow.db
 mlruns/
+/model.pkl
